@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c03d3defd244c7bef320.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qlist",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qlist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qlist-Debug-b5b67102bf47b1580d50.json",
+					"name" : "Qlist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qlist_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qlist_autogen-Debug-b614f575f6367dc4730c.json",
+					"name" : "Qlist_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qlist_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qlist_autogen_timestamp_deps-Debug-a021b8310072955c3ece.json",
+					"name" : "Qlist_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Documents/Qt_Practice/Qtobjects/QList/build-Qlist-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Documents/Qt_Practice/Qtobjects/QList/Qlist"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-622fc25d077f28a106c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qobject_notcopied",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qobject_notcopied::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qobject_notcopied-Debug-cd890ae0e5cca08c59ef.json",
+					"name" : "Qobject_notcopied",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qobject_notcopied_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qobject_notcopied_autogen-Debug-7f2e32d03f006c912499.json",
+					"name" : "Qobject_notcopied_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qobject_notcopied_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qobject_notcopied_autogen_timestamp_deps-Debug-b8deb0bc3f3c179cdb1b.json",
+					"name" : "Qobject_notcopied_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/Qobject_notcopied"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

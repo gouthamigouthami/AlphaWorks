@@ -1,0 +1,26 @@
+# ninja log v5
+2	1835	7236476581110322	Switch_autogen/timestamp	2a8e77638d5e93cf
+2	1835	7236476581110322	Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+2	1835	7236476581110322	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/timestamp	2a8e77638d5e93cf
+2	1835	7236476581110322	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+1837	2514	7236476592801194	CMakeFiles/Switch.dir/Switch_autogen/mocs_compilation.cpp.obj	ac228b8c2de51907
+1933	4490	7236476612545211	CMakeFiles/Switch.dir/main.cpp.obj	190352dff4728bcd
+4509	5095	7236476618295223	Switch.exe	d2e51c1744fbcb1d
+12	1074	7236478270551103	Switch_autogen/timestamp	2a8e77638d5e93cf
+12	1074	7236478270551103	Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+12	1074	7236478270551103	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/timestamp	2a8e77638d5e93cf
+12	1074	7236478270551103	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+1080	3491	7236478295454854	CMakeFiles/Switch.dir/main.cpp.obj	190352dff4728bcd
+3491	4053	7236478300858053	Switch.exe	d2e51c1744fbcb1d
+13	1174	7236480145928194	Switch_autogen/timestamp	2a8e77638d5e93cf
+13	1174	7236480145928194	Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+13	1174	7236480145928194	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/timestamp	2a8e77638d5e93cf
+13	1174	7236480145928194	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+1180	3579	7236480170837818	CMakeFiles/Switch.dir/main.cpp.obj	190352dff4728bcd
+3580	4160	7236480176283899	Switch.exe	d2e51c1744fbcb1d
+12	1363	7236480430746139	Switch_autogen/timestamp	2a8e77638d5e93cf
+12	1363	7236480430746139	Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+12	1363	7236480430746139	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/timestamp	2a8e77638d5e93cf
+12	1363	7236480430746139	C:/Users/gkashabo/Documents/Qt_Practice/Contol/build-Switch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Switch_autogen/mocs_compilation.cpp	2a8e77638d5e93cf
+1373	4213	7236480460395460	CMakeFiles/Switch.dir/main.cpp.obj	190352dff4728bcd
+4214	4871	7236480466671082	Switch.exe	d2e51c1744fbcb1d

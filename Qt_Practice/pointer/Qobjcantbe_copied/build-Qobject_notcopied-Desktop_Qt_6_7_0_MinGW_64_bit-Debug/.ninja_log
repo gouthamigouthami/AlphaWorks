@@ -1,0 +1,8 @@
+# ninja log v5
+3	2240	7237376050887544	Qobject_notcopied_autogen/timestamp	67c2e8dde7aadc04
+3	2240	7237376050887544	Qobject_notcopied_autogen/mocs_compilation.cpp	67c2e8dde7aadc04
+3	2240	7237376050887544	C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qobject_notcopied_autogen/timestamp	67c2e8dde7aadc04
+3	2240	7237376050887544	C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qobject_notcopied_autogen/mocs_compilation.cpp	67c2e8dde7aadc04
+2242	2887	7237376061362415	CMakeFiles/Qobject_notcopied.dir/Qobject_notcopied_autogen/mocs_compilation.cpp.obj	2eeaa3d61043a55d
+2313	4776	7237376080209695	CMakeFiles/Qobject_notcopied.dir/main.cpp.obj	67bb9a506b735580
+4783	5935	7237376091439594	Qobject_notcopied.exe	262609f8fcad4e98

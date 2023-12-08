@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dca22d5711048232f894.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "parent_child",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "parent_child::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent_child-Debug-a07db370181a03432f7b.json",
+					"name" : "parent_child",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent_child_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent_child_autogen-Debug-f6061b62c527e7ddbe53.json",
+					"name" : "parent_child_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent_child_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent_child_autogen_timestamp_deps-Debug-eea904c2ca6c6f102b89.json",
+					"name" : "parent_child_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Documents/Qt_Practice/pointer/QT_parent_child/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Documents/Qt_Practice/pointer/QT_parent_child/parent_child"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

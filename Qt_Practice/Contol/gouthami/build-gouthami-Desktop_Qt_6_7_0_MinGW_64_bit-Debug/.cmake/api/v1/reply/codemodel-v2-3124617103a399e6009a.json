@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a15dbd99958bffaee683.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gouthami",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gouthami::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gouthami-Debug-541444ef8a0943a5dc4c.json",
+					"name" : "gouthami",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gouthami_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gouthami_autogen-Debug-f62bf859d260c10c4c70.json",
+					"name" : "gouthami_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gouthami_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gouthami_autogen_timestamp_deps-Debug-89e2b84716663d4764ee.json",
+					"name" : "gouthami_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Documents/Qt_Practice/Contol/gouthami/build-gouthami-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Documents/Qt_Practice/Contol/gouthami/gouthami"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

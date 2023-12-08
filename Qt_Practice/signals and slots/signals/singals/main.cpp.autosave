@@ -1,0 +1,11 @@
+/*signals and slots are used focommunication between objects
+A signal is emitted when a particular event occurs.*/
+
+#include <QCoreApplication>
+
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+    return a.exec();
+}

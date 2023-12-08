@@ -1,0 +1,19 @@
+# ninja log v5
+2	3630	7237203756906172	smart_auto_pntr_autogen/timestamp	bd266592504f2adc
+2	3630	7237203756906172	smart_auto_pntr_autogen/mocs_compilation.cpp	bd266592504f2adc
+2	3630	7237203756906172	C:/Users/gkashabo/Documents/Qt_Practice/pointer/automatic memory management/build-smart_auto_pntr-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/smart_auto_pntr_autogen/timestamp	bd266592504f2adc
+2	3630	7237203756906172	C:/Users/gkashabo/Documents/Qt_Practice/pointer/automatic memory management/build-smart_auto_pntr-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/smart_auto_pntr_autogen/mocs_compilation.cpp	bd266592504f2adc
+3632	7157	7237203796580632	CMakeFiles/smart_auto_pntr.dir/smart_auto_pntr_autogen/mocs_compilation.cpp.obj	a208f7a58d686271
+3701	7177	7237203796640318	CMakeFiles/smart_auto_pntr.dir/test.cpp.obj	efd44585792ac572
+11	1244	7237203909323043	smart_auto_pntr_autogen/timestamp	bd266592504f2adc
+11	1244	7237203909323043	smart_auto_pntr_autogen/mocs_compilation.cpp	bd266592504f2adc
+11	1244	7237203909323043	C:/Users/gkashabo/Documents/Qt_Practice/pointer/automatic memory management/build-smart_auto_pntr-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/smart_auto_pntr_autogen/timestamp	bd266592504f2adc
+11	1244	7237203909323043	C:/Users/gkashabo/Documents/Qt_Practice/pointer/automatic memory management/build-smart_auto_pntr-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/smart_auto_pntr_autogen/mocs_compilation.cpp	bd266592504f2adc
+1263	3709	7237203934357567	CMakeFiles/smart_auto_pntr.dir/main.cpp.obj	7792918f7b450008
+3710	5495	7237203951844846	smart_auto_pntr.exe	229878b053a92534
+13	1211	7237205494164079	smart_auto_pntr_autogen/timestamp	bd266592504f2adc
+13	1211	7237205494164079	smart_auto_pntr_autogen/mocs_compilation.cpp	bd266592504f2adc
+13	1211	7237205494164079	C:/Users/gkashabo/Documents/Qt_Practice/pointer/automatic memory management/build-smart_auto_pntr-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/smart_auto_pntr_autogen/timestamp	bd266592504f2adc
+13	1211	7237205494164079	C:/Users/gkashabo/Documents/Qt_Practice/pointer/automatic memory management/build-smart_auto_pntr-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/smart_auto_pntr_autogen/mocs_compilation.cpp	bd266592504f2adc
+1227	3537	7237205517869306	CMakeFiles/smart_auto_pntr.dir/main.cpp.obj	7792918f7b450008
+3538	4130	7237205523473582	smart_auto_pntr.exe	229878b053a92534

@@ -1,0 +1,9 @@
+# ninja log v5
+9	1137	7234802537826128	Qtobjects_autogen/timestamp	e6bd617b902d0b9e
+1559	2209	7234801865794468	CMakeFiles/Qtobjects.dir/Qtobjects_autogen/mocs_compilation.cpp.obj	7676050da65c7e34
+9	1137	7234802537826128	Qtobjects_autogen/mocs_compilation.cpp	e6bd617b902d0b9e
+9	1137	7234802537826128	C:/Users/gkashabo/Documents/Qt_Practice/build-Qtobjects-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qtobjects_autogen/timestamp	e6bd617b902d0b9e
+9	1137	7234802537826128	C:/Users/gkashabo/Documents/Qt_Practice/build-Qtobjects-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qtobjects_autogen/mocs_compilation.cpp	e6bd617b902d0b9e
+1142	3582	7234802563047137	CMakeFiles/Qtobjects.dir/QVariants.cpp.obj	c659efd49933f1f7
+4089	4674	7234801890140131	Qtobjects.exe	fe2b3b752e503f89
+1704	4071	7234801884305663	CMakeFiles/Qtobjects.dir/main.cpp.obj	23324825169d0edb

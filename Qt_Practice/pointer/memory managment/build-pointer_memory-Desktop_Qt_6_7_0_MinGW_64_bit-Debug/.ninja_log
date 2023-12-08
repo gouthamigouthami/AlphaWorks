@@ -1,0 +1,14 @@
+# ninja log v5
+3	1857	7237168784720432	pointer_memory_autogen/timestamp	8cb22678fb023d64
+3	1857	7237168784720432	pointer_memory_autogen/mocs_compilation.cpp	8cb22678fb023d64
+3	1857	7237168784720432	C:/Users/gkashabo/Documents/Qt_Practice/pointer/memory managment/build-pointer_memory-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/pointer_memory_autogen/timestamp	8cb22678fb023d64
+3	1857	7237168784720432	C:/Users/gkashabo/Documents/Qt_Practice/pointer/memory managment/build-pointer_memory-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/pointer_memory_autogen/mocs_compilation.cpp	8cb22678fb023d64
+1859	2489	7237168795864498	CMakeFiles/pointer_memory.dir/pointer_memory_autogen/mocs_compilation.cpp.obj	61543aefaddf254b
+1935	4507	7237168816078878	CMakeFiles/pointer_memory.dir/main.cpp.obj	b81b53bf9cbcf009
+4514	5095	7237168821736874	pointer_memory.exe	fdabd4268a844c26
+23	1285	7237170827388716	pointer_memory_autogen/timestamp	8cb22678fb023d64
+23	1285	7237170827388716	pointer_memory_autogen/mocs_compilation.cpp	8cb22678fb023d64
+23	1285	7237170827388716	C:/Users/gkashabo/Documents/Qt_Practice/pointer/memory managment/build-pointer_memory-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/pointer_memory_autogen/timestamp	8cb22678fb023d64
+23	1285	7237170827388716	C:/Users/gkashabo/Documents/Qt_Practice/pointer/memory managment/build-pointer_memory-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/pointer_memory_autogen/mocs_compilation.cpp	8cb22678fb023d64
+1292	3884	7237170854178957	CMakeFiles/pointer_memory.dir/main.cpp.obj	b81b53bf9cbcf009
+3885	4466	7237170859772272	pointer_memory.exe	fdabd4268a844c26

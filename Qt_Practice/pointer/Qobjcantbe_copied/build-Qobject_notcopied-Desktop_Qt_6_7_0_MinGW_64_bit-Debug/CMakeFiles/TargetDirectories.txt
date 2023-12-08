@@ -1,0 +1,9 @@
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Qobject_notcopied.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Qobject_notcopied_autogen_timestamp_deps.dir
+C:/Users/gkashabo/Documents/Qt_Practice/pointer/Qobjcantbe_copied/build-Qobject_notcopied-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Qobject_notcopied_autogen.dir
