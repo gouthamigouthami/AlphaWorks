@@ -1,0 +1,28 @@
+# ninja log v5
+4	3599	7239972144299958	Dog_autogen/timestamp	9f97b1e1134e7804
+4	3599	7239972144299958	Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+4	3599	7239972144299958	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/timestamp	9f97b1e1134e7804
+4	3599	7239972144299958	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+3601	8002	7239972193207098	CMakeFiles/Dog.dir/main.cpp.obj	2860d5668e034f2e
+3689	8024	7239972193518523	CMakeFiles/Dog.dir/Dog_autogen/mocs_compilation.cpp.obj	40441c84c13fb84f
+3785	8071	7239972193848310	CMakeFiles/Dog.dir/dog.cpp.obj	f144a62120902dae
+3880	8122	7239972194427576	CMakeFiles/Dog.dir/owner.cpp.obj	181a42de427e940a
+8122	8732	7239972200216577	Dog.exe	49cf6c7652311cbe
+11	1347	7239972405912962	Dog_autogen/timestamp	9f97b1e1134e7804
+11	1347	7239972405912962	Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+11	1347	7239972405912962	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/timestamp	9f97b1e1134e7804
+11	1347	7239972405912962	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+1364	4136	7239972434224456	CMakeFiles/Dog.dir/main.cpp.obj	2860d5668e034f2e
+4137	4752	7239972439979704	Dog.exe	49cf6c7652311cbe
+17	1440	7239972959209235	Dog_autogen/timestamp	9f97b1e1134e7804
+17	1440	7239972959209235	Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+17	1440	7239972959209235	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/timestamp	9f97b1e1134e7804
+17	1440	7239972959209235	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+1463	4309	7239972988542114	CMakeFiles/Dog.dir/main.cpp.obj	2860d5668e034f2e
+4310	4952	7239972994658155	Dog.exe	49cf6c7652311cbe
+15	1444	7239973425097609	Dog_autogen/timestamp	9f97b1e1134e7804
+15	1444	7239973425097609	Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+15	1444	7239973425097609	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/timestamp	9f97b1e1134e7804
+15	1444	7239973425097609	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/Dog/build-Dog-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Dog_autogen/mocs_compilation.cpp	9f97b1e1134e7804
+1461	4396	7239973455312118	CMakeFiles/Dog.dir/main.cpp.obj	2860d5668e034f2e
+4396	5123	7239973462223193	Dog.exe	49cf6c7652311cbe

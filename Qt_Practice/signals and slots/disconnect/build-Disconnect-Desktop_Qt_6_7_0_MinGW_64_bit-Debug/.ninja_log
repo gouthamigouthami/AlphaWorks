@@ -1,0 +1,47 @@
+# ninja log v5
+4	4053	7239748518621625	Disconnect_autogen/timestamp	a46c25c94809b96b
+4	4053	7239748518621625	Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+4	4053	7239748518621625	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/timestamp	a46c25c94809b96b
+4	4053	7239748518621625	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+4055	7217	7239748557440724	CMakeFiles/Disconnect.dir/main.cpp.obj	1838c5058a01abbb
+4257	7306	7239748558300816	CMakeFiles/Disconnect.dir/station.cpp.obj	a9c708855e22b790
+4150	7331	7239748558566003	CMakeFiles/Disconnect.dir/Disconnect_autogen/mocs_compilation.cpp.obj	ec676e7163929755
+4352	7347	7239748558756015	CMakeFiles/Disconnect.dir/radio.cpp.obj	c73ebc3acebf4b95
+7347	8002	7239748564935394	Disconnect.exe	c35d4e7b57d49316
+17	2556	7239780687822879	Disconnect_autogen/timestamp	a46c25c94809b96b
+17	2556	7239780687822879	Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+17	2556	7239780687822879	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/timestamp	a46c25c94809b96b
+17	2556	7239780687822879	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+3048	7393	7239780740548965	CMakeFiles/Disconnect.dir/radio.cpp.obj	c73ebc3acebf4b95
+2979	7417	7239780740769325	CMakeFiles/Disconnect.dir/station.cpp.obj	a9c708855e22b790
+2557	7436	7239780740969085	CMakeFiles/Disconnect.dir/Disconnect_autogen/mocs_compilation.cpp.obj	ec676e7163929755
+10	1111	7239781595490630	Disconnect_autogen/timestamp	a46c25c94809b96b
+10	1111	7239781595490630	Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+10	1111	7239781595490630	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/timestamp	a46c25c94809b96b
+10	1111	7239781595490630	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+16	2410	7239782091494814	Disconnect_autogen/timestamp	a46c25c94809b96b
+16	2410	7239782091494814	Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+16	2410	7239782091494814	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/timestamp	a46c25c94809b96b
+16	2410	7239782091494814	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+2552	5612	7239782127532422	CMakeFiles/Disconnect.dir/station.cpp.obj	a9c708855e22b790
+2411	5653	7239782127971117	CMakeFiles/Disconnect.dir/main.cpp.obj	1838c5058a01abbb
+2474	5683	7239782128288743	CMakeFiles/Disconnect.dir/Disconnect_autogen/mocs_compilation.cpp.obj	ec676e7163929755
+5684	7066	7239782141720473	Disconnect.exe	c35d4e7b57d49316
+17	1632	7239798345124834	Disconnect_autogen/timestamp	a46c25c94809b96b
+17	1632	7239798345124834	Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+17	1632	7239798345124834	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/timestamp	a46c25c94809b96b
+17	1632	7239798345124834	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+1649	4645	7239798375663614	CMakeFiles/Disconnect.dir/main.cpp.obj	1838c5058a01abbb
+4646	5302	7239798381939486	Disconnect.exe	c35d4e7b57d49316
+13	1288	7239798889983644	Disconnect_autogen/timestamp	a46c25c94809b96b
+13	1288	7239798889983644	Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+13	1288	7239798889983644	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/timestamp	a46c25c94809b96b
+13	1288	7239798889983644	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+1308	3959	7239798917280772	CMakeFiles/Disconnect.dir/main.cpp.obj	1838c5058a01abbb
+3959	4587	7239798923064923	Disconnect.exe	c35d4e7b57d49316
+9	1066	7239801117853243	Disconnect_autogen/timestamp	a46c25c94809b96b
+9	1066	7239801117853243	Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+9	1066	7239801117853243	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/timestamp	a46c25c94809b96b
+9	1066	7239801117853243	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/disconnect/build-Disconnect-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Disconnect_autogen/mocs_compilation.cpp	a46c25c94809b96b
+1081	3453	7239801142132962	CMakeFiles/Disconnect.dir/main.cpp.obj	1838c5058a01abbb
+3454	4076	7239801147891671	Disconnect.exe	c35d4e7b57d49316

@@ -1,0 +1,16 @@
+# ninja log v5
+4	3093	7239911665932940	Q_property_autogen/timestamp	527b05b8d8866504
+4	3093	7239911665932940	Q_property_autogen/mocs_compilation.cpp	527b05b8d8866504
+4	3093	7239911665932940	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/build-Q_property-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Q_property_autogen/timestamp	527b05b8d8866504
+4	3093	7239911665932940	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/build-Q_property-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	527b05b8d8866504
+3095	6798	7239911707848961	CMakeFiles/Q_property.dir/Q_property_autogen/mocs_compilation.cpp.obj	35b06bcbfa6be15c
+3274	6825	7239911708127757	CMakeFiles/Q_property.dir/watcher.cpp.obj	5595518b9d56cb12
+3181	6836	7239911708284068	CMakeFiles/Q_property.dir/main.cpp.obj	d30675690f3d837e
+3367	6893	7239911708851694	CMakeFiles/Q_property.dir/test.cpp.obj	9c0bb1e57cebcfaf
+6894	7616	7239911715706107	Q_property.exe	e2ed4bc69a653010
+15	1207	7239913098827842	Q_property_autogen/timestamp	527b05b8d8866504
+15	1207	7239913098827842	Q_property_autogen/mocs_compilation.cpp	527b05b8d8866504
+15	1207	7239913098827842	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/build-Q_property-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Q_property_autogen/timestamp	527b05b8d8866504
+15	1207	7239913098827842	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/signals and slots/build-Q_property-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	527b05b8d8866504
+1223	3663	7239913123974986	CMakeFiles/Q_property.dir/main.cpp.obj	d30675690f3d837e
+3664	4279	7239913129687247	Q_property.exe	e2ed4bc69a653010
