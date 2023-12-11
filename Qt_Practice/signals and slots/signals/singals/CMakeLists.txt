@@ -14,6 +14,10 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 
 add_executable(singals
   main.cpp
+  source.h source.cpp
+  destination.h destination.cpp
+
+
 )
 target_link_libraries(singals Qt${QT_VERSION_MAJOR}::Core)
 

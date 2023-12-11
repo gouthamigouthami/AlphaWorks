@@ -1,0 +1,44 @@
+# ninja log v5
+11	1433	7237414647249864	singals_autogen/timestamp	f8d50a991e6295f
+11	1433	7237414647249864	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/timestamp	f8d50a991e6295f
+11	1433	7237414647249864	singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+4293	4986	7237414683364393	singals.exe	97974e861378f2c
+11	1433	7237414647249864	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+2393	3099	7237412229846617	CMakeFiles/singals.dir/singals_autogen/mocs_compilation.cpp.obj	d342b302403147c3
+1441	4292	7237414676771021	CMakeFiles/singals.dir/main.cpp.obj	72595685f0aa507f
+50	2228	7239303988204497	singals_autogen/timestamp	f8d50a991e6295f
+50	2228	7239303988204497	singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+50	2228	7239303988204497	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/timestamp	f8d50a991e6295f
+50	2228	7239303988204497	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+2368	5876	7239304028805315	CMakeFiles/singals.dir/destination.cpp.obj	18a050e569ccfb4c
+2229	5884	7239304028885322	CMakeFiles/singals.dir/singals_autogen/mocs_compilation.cpp.obj	d342b302403147c3
+2446	5885	7239304028885322	CMakeFiles/singals.dir/source.cpp.obj	45eecec6312c7e63
+10	1101	7239304815091027	singals_autogen/timestamp	f8d50a991e6295f
+10	1101	7239304815091027	singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+10	1101	7239304815091027	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/timestamp	f8d50a991e6295f
+10	1101	7239304815091027	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+1116	3511	7239304839727129	CMakeFiles/singals.dir/main.cpp.obj	72595685f0aa507f
+3512	4516	7239304849382602	singals.exe	f6d7900c7663540f
+15	2117	7239307975573420	singals_autogen/timestamp	f8d50a991e6295f
+15	2117	7239307975573420	singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+15	2117	7239307975573420	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/timestamp	f8d50a991e6295f
+15	2117	7239307975573420	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+2118	5184	7239308010191443	CMakeFiles/singals.dir/main.cpp.obj	72595685f0aa507f
+2254	5323	7239308011591766	CMakeFiles/singals.dir/destination.cpp.obj	18a050e569ccfb4c
+2179	5335	7239308011691785	CMakeFiles/singals.dir/singals_autogen/mocs_compilation.cpp.obj	d342b302403147c3
+2322	5374	7239308012121758	CMakeFiles/singals.dir/source.cpp.obj	45eecec6312c7e63
+5374	5984	7239308017820484	singals.exe	f6d7900c7663540f
+14	1263	7239320705079645	singals_autogen/timestamp	f8d50a991e6295f
+14	1263	7239320705079645	singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+14	1263	7239320705079645	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/timestamp	f8d50a991e6295f
+14	1263	7239320705079645	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+1281	4074	7239320733734443	CMakeFiles/singals.dir/main.cpp.obj	72595685f0aa507f
+4075	4678	7239320739379620	singals.exe	f6d7900c7663540f
+17	2494	7239326060393535	singals_autogen/timestamp	f8d50a991e6295f
+17	2494	7239326060393535	singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+17	2494	7239326060393535	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/timestamp	f8d50a991e6295f
+17	2494	7239326060393535	C:/Users/gkashabo/Documents/Qt_Practice/signals and slots/signals/build-singals-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/singals_autogen/mocs_compilation.cpp	f8d50a991e6295f
+2496	5485	7239326095325159	CMakeFiles/singals.dir/singals_autogen/mocs_compilation.cpp.obj	d342b302403147c3
+2658	5496	7239326095440296	CMakeFiles/singals.dir/destination.cpp.obj	18a050e569ccfb4c
+2574	5546	7239326095920291	CMakeFiles/singals.dir/main.cpp.obj	72595685f0aa507f
+5547	6174	7239326101860821	singals.exe	f6d7900c7663540f
