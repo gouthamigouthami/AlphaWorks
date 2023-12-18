@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1e1f952bc472dfd3627e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qt_Assugnment_01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_Assugnment_01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_Assugnment_01-Debug-b03db80eed1bcc5cc458.json",
+					"name" : "Qt_Assugnment_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_Assugnment_01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_Assugnment_01_autogen-Debug-3578ff28e862af18d27b.json",
+					"name" : "Qt_Assugnment_01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_Assugnment_01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_Assugnment_01_autogen_timestamp_deps-Debug-fbe6d778226d6de3dfe9.json",
+					"name" : "Qt_Assugnment_01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-Qt_Assugnment_01-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/Qt_Assugnment_01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

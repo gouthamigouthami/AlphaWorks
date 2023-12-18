@@ -1,0 +1,20 @@
+# ninja log v5
+3	1767	7240791482883361	qt_assign_Practice_autogen/timestamp	d4d360b4c6b2f60
+3	1767	7240791482883361	qt_assign_Practice_autogen/mocs_compilation.cpp	d4d360b4c6b2f60
+3	1767	7240791482883361	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-qt_assign_Practice-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt_assign_Practice_autogen/timestamp	d4d360b4c6b2f60
+3	1767	7240791482883361	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-qt_assign_Practice-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt_assign_Practice_autogen/mocs_compilation.cpp	d4d360b4c6b2f60
+1779	2405	7240791493925056	CMakeFiles/qt_assign_Practice.dir/qt_assign_Practice_autogen/mocs_compilation.cpp.obj	7f42a432935be090
+1846	4245	7240791512294284	CMakeFiles/qt_assign_Practice.dir/main.cpp.obj	d495195f9d5e6296
+4253	4825	7240791517740229	qt_assign_Practice.exe	f53f7c4919219fb1
+14	1144	7240791970804112	qt_assign_Practice_autogen/timestamp	d4d360b4c6b2f60
+14	1144	7240791970804112	qt_assign_Practice_autogen/mocs_compilation.cpp	d4d360b4c6b2f60
+14	1144	7240791970804112	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-qt_assign_Practice-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt_assign_Practice_autogen/timestamp	d4d360b4c6b2f60
+14	1144	7240791970804112	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-qt_assign_Practice-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt_assign_Practice_autogen/mocs_compilation.cpp	d4d360b4c6b2f60
+1151	3672	7240791996792636	CMakeFiles/qt_assign_Practice.dir/main.cpp.obj	d495195f9d5e6296
+3673	4268	7240792002442460	qt_assign_Practice.exe	f53f7c4919219fb1
+15	1138	7240797405630107	qt_assign_Practice_autogen/timestamp	d4d360b4c6b2f60
+15	1138	7240797405630107	qt_assign_Practice_autogen/mocs_compilation.cpp	d4d360b4c6b2f60
+15	1138	7240797405630107	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-qt_assign_Practice-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt_assign_Practice_autogen/timestamp	d4d360b4c6b2f60
+15	1138	7240797405630107	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-qt_assign_Practice-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt_assign_Practice_autogen/mocs_compilation.cpp	d4d360b4c6b2f60
+1144	4226	7240797437197351	CMakeFiles/qt_assign_Practice.dir/main.cpp.obj	d495195f9d5e6296
+4227	4804	7240797442634458	qt_assign_Practice.exe	f53f7c4919219fb1

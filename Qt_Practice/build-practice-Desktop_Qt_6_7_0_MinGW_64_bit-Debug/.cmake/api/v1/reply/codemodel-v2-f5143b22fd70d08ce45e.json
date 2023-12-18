@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-63b5a5033c6df72a79af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "practice",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice-Debug-76a593ad6ca07572f93a.json",
+					"name" : "practice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice_autogen-Debug-0481e92be5c132710988.json",
+					"name" : "practice_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice_autogen_timestamp_deps-Debug-a6c01c84088e7add0d95.json",
+					"name" : "practice_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-practice-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/practice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

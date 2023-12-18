@@ -1,0 +1,11 @@
+# ninja log v5
+9	1797	7240675409126657	Assignement_01_autogen/timestamp	d31e68e6aaee65ce
+5387	6063	7240675455611878	Assignement_01.exe	42e20ea3a1719c
+9	1797	7240675409126657	Assignement_01_autogen/mocs_compilation.cpp	d31e68e6aaee65ce
+1798	5078	7240675446114108	CMakeFiles/Assignement_01.dir/main.cpp.obj	427452a3ae830892
+1958	5385	7240675449181272	CMakeFiles/Assignement_01.dir/student.cpp.obj	dc7cdd99328d73da
+9	1797	7240675409126657	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-Assignement_01-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Assignement_01_autogen/timestamp	d31e68e6aaee65ce
+1871	5244	7240675447765792	CMakeFiles/Assignement_01.dir/Assignement_01_autogen/mocs_compilation.cpp.obj	a7d173b1a2cff2a1
+9	1797	7240675409126657	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-Assignement_01-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Assignement_01_autogen/mocs_compilation.cpp	d31e68e6aaee65ce
+77	200	0	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt_Practice/build-Assignement_01-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Assignement_01_autogen/mocs_compilation.cpp	9ceccd2007ddaec7
+2	2954	7240788533064965	CMakeFiles/assignement_01.dir/main.cpp.obj	d6b47255405a08e0
