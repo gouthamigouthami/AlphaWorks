@@ -1,0 +1,18 @@
+# ninja log v5
+1136	4697	7284354826300239	CMakeFiles/demo.dir/main.cpp.obj	7d423fd752a78e53
+3597	9104	7284353253976256	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	883f9ce643a20e96
+14	1118	7284354790253740	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+14	1118	7284354790253740	demo_autogen/timestamp	688a018a0dc1c636
+14	1118	7284354790253740	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+4698	7769	7284354856593474	demo.exe	f72d36fe5dd0243f
+14	1118	7284354790253740	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+3762	9129	7284353254222327	CMakeFiles/demo.dir/transfer.cpp.obj	d48a5ca0b18c2826
+4686	9023	7284328540139499	CMakeFiles/demo.dir/communicationlog.cpp.obj	5e4bef6e022b1d14
+11	2214	7284366132032067	demo_autogen/timestamp	688a018a0dc1c636
+11	2214	7284366132032067	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+11	2214	7284366132032067	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+11	2214	7284366132032067	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+2215	5750	7284366171416457	CMakeFiles/demo.dir/main.cpp.obj	7d423fd752a78e53
+2279	5799	7284366171931719	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	883f9ce643a20e96
+2352	6039	7284366174342734	CMakeFiles/demo.dir/transfer.cpp.obj	d48a5ca0b18c2826
+6040	6735	7284366180810499	demo.exe	f72d36fe5dd0243f
