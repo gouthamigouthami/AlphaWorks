@@ -1,0 +1,5 @@
+module listview_currentitem
+typeinfo applistview_currentitem.qmltypes
+prefer :/listview_currentitem/
+Main 1.0 Main.qml
+

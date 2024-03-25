@@ -1,0 +1,5 @@
+module Color_gradiant
+typeinfo appColor_gradiant.qmltypes
+prefer :/Color_gradiant/
+Main 1.0 Main.qml
+

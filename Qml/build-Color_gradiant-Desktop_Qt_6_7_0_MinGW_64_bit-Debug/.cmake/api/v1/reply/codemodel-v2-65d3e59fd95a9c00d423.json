@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b0daadad07c382f72c00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Color_gradiant",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-fb143e10b09e500bd565.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-5bab60215ae1a5168377.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-dbd5016ad5e73356832c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-5977bb307587ce4d27d2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant-Debug-c53131232208715102be.json",
+					"name" : "appColor_gradiant",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_autogen-Debug-2f014e12ce3b4ce1a8b2.json",
+					"name" : "appColor_gradiant_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_autogen_timestamp_deps-Debug-3d4888939ae54aa5a366.json",
+					"name" : "appColor_gradiant_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_qmlimportscan-Debug-129dcd493cb0d1418307.json",
+					"name" : "appColor_gradiant_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_qmllint-Debug-417ac37a46cc5b7d4a50.json",
+					"name" : "appColor_gradiant_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_qmllint_json-Debug-ee0b0abaff9d7358c484.json",
+					"name" : "appColor_gradiant_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_qmllint_module-Debug-b07bfbd2ed2ce13c81ad.json",
+					"name" : "appColor_gradiant_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_qmltyperegistration-Debug-781e4efd9827e17ef390.json",
+					"name" : "appColor_gradiant_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appColor_gradiant_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appColor_gradiant_tooling-Debug-5c546cd95f8758f19fc3.json",
+					"name" : "appColor_gradiant_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-Color_gradiant-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/Color_gradiant"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

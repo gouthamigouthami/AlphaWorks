@@ -1,0 +1,5 @@
+module cpptoqml
+typeinfo appcpptoqml.qmltypes
+prefer :/cpptoqml/
+Main 1.0 Main.qml
+

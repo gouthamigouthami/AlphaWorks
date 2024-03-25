@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/FocusScope/">
+    <file alias="Main.qml">C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/FocusScope/Main.qml</file>
+    <file alias="InputField.qml">C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/FocusScope/InputField.qml</file>
+  </qresource>
+</RCC>
+

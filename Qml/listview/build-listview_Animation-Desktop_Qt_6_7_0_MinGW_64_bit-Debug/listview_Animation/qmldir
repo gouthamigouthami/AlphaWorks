@@ -1,0 +1,5 @@
+module listview_Animation
+typeinfo applistview_Animation.qmltypes
+prefer :/listview_Animation/
+Main 1.0 Main.qml
+

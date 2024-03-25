@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/swipe
+-cmake-output
+-output-file
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-swipe-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appswipe.cmake
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-swipe-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/swipe
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-swipe-Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-swipe-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_swipe.qrc
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-swipe-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appswipe_raw_qml_0.qrc

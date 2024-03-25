@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/customproperty/">
+    <file alias="Main.qml">C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/customproperty/Main.qml</file>
+    <file alias="LineEdit.qml">C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/customproperty/LineEdit.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d4c9ddf57ef5f1f5333e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FocusScope",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f740d77638af289d707e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-78449bf1fe828b41666c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-235b7dd789fb9b29865f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-32912ab171784c1cd1d8.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope-Debug-981b7611fceec11ee171.json",
+					"name" : "appFocusScope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_autogen-Debug-7aabf26067606ebd9123.json",
+					"name" : "appFocusScope_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_autogen_timestamp_deps-Debug-e19ddf3cf41245c5877a.json",
+					"name" : "appFocusScope_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_qmlimportscan-Debug-51c8ab3d50f55ab96983.json",
+					"name" : "appFocusScope_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_qmllint-Debug-8c6d1c0c5417293fbcf3.json",
+					"name" : "appFocusScope_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_qmllint_json-Debug-234aee5e5a3080d31fd8.json",
+					"name" : "appFocusScope_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_qmllint_module-Debug-d3ae4e07308115f5c7ed.json",
+					"name" : "appFocusScope_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_qmltyperegistration-Debug-55e51000fb2422b9d3e2.json",
+					"name" : "appFocusScope_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFocusScope_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFocusScope_tooling-Debug-f5b242b818beae453629.json",
+					"name" : "appFocusScope_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-FocusScope-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/FocusScope"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

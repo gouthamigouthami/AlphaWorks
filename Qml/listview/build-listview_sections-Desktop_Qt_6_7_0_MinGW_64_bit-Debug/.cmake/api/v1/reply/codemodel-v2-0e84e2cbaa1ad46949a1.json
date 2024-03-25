@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5c5ac2ffe74c0bcb41e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "listview_sections",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-5db9b97a15121fffc46e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-912a2fc94459331074c5.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-46bd6ecde2998f3d9ac4.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-fa8d0ac7b7fac9264112.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections-Debug-d6544d0bca9d1cdaa7aa.json",
+					"name" : "applistview_sections",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_autogen-Debug-b8deef45741f876a33e3.json",
+					"name" : "applistview_sections_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_autogen_timestamp_deps-Debug-d4ac93db198bf0bd81ef.json",
+					"name" : "applistview_sections_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_qmlimportscan-Debug-d4d64c1279a39fe84a56.json",
+					"name" : "applistview_sections_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_qmllint-Debug-e9fb9c8e23cc3c598a34.json",
+					"name" : "applistview_sections_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_qmllint_json-Debug-8a9b233bcc0cf470d659.json",
+					"name" : "applistview_sections_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_qmllint_module-Debug-70c7f3f486a3148e06da.json",
+					"name" : "applistview_sections_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_qmltyperegistration-Debug-650981af16e596e9daa9.json",
+					"name" : "applistview_sections_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_sections_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_sections_tooling-Debug-051ec1424c61b5511e47.json",
+					"name" : "applistview_sections_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_sections-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/listview_sections"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

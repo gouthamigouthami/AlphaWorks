@@ -1,0 +1,5 @@
+module qml4
+typeinfo appqml4.qmltypes
+prefer :/qml4/
+Main 1.0 Main.qml
+

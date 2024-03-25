@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-42b9028cabb30347e898.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qml4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-048d71da354f576cbbff.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1b14394cae0ac1893a95.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c5131bbe5c8a07cfecf1.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-aa64bb12c5f5477d9677.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4-Debug-9ff6cf0199ccabcd37e7.json",
+					"name" : "appqml4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_autogen-Debug-69c2a92eeef472896034.json",
+					"name" : "appqml4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_autogen_timestamp_deps-Debug-3d0ad292a6c05bf0b2e4.json",
+					"name" : "appqml4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_qmlimportscan-Debug-2077e74f6069b30a4197.json",
+					"name" : "appqml4_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_qmllint-Debug-8175d6f4fb4373c0e6e6.json",
+					"name" : "appqml4_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_qmllint_json-Debug-94d89897824e0e1e698f.json",
+					"name" : "appqml4_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_qmllint_module-Debug-380d13f62b9f089f4a83.json",
+					"name" : "appqml4_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_qmltyperegistration-Debug-771f9bf41f2d2e0ea2c9.json",
+					"name" : "appqml4_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml4_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml4_tooling-Debug-6b1be3302e08e5686865.json",
+					"name" : "appqml4_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-qml4-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/qml4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/listview_Animation
+-cmake-output
+-output-file
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_Animation-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_applistview_Animation.cmake
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_Animation-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/listview_Animation
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_Animation-Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_Animation-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_listview_Animation.qrc
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_Animation-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/applistview_Animation_raw_qml_0.qrc

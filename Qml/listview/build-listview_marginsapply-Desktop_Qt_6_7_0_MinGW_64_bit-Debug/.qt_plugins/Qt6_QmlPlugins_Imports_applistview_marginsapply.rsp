@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/listview_marginsapply
+-cmake-output
+-output-file
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_marginsapply-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_applistview_marginsapply.cmake
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_marginsapply-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/listview_marginsapply
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_marginsapply-Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_marginsapply-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_listview_marginsapply.qrc
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_marginsapply-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/applistview_marginsapply_raw_qml_0.qrc

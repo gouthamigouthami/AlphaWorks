@@ -1,0 +1,10 @@
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/applistview_currentitem.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/applistview_currentitem_qmlimportscan.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/applistview_currentitem_autogen_timestamp_deps.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-listview_currentitem-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/applistview_currentitem_autogen.dir

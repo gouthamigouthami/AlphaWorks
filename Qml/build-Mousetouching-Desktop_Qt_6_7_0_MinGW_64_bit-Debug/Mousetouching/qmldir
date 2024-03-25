@@ -1,0 +1,5 @@
+module Mousetouching
+typeinfo appMousetouching.qmltypes
+prefer :/Mousetouching/
+Main 1.0 Main.qml
+

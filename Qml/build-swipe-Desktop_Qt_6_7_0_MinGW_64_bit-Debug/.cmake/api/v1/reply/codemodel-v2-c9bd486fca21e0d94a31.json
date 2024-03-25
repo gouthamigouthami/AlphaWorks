@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2271619ddb9eb676c8db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "swipe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ba8bff2603990ee78319.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-f08e666f35a859bb58dd.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-2cf96680678c1402929e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-58b96db69e9fcff7ed75.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe-Debug-1b7819ce77040af6e1d9.json",
+					"name" : "appswipe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_autogen-Debug-aa994156aee5277611c9.json",
+					"name" : "appswipe_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_autogen_timestamp_deps-Debug-b85057feb7c068b5fcb7.json",
+					"name" : "appswipe_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_qmlimportscan-Debug-c02b4cbcf16e9baa272c.json",
+					"name" : "appswipe_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_qmllint-Debug-e115889e78a861a8ca6e.json",
+					"name" : "appswipe_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_qmllint_json-Debug-827b5792df87e5a27f34.json",
+					"name" : "appswipe_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_qmllint_module-Debug-163a87e4116705ff2433.json",
+					"name" : "appswipe_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_qmltyperegistration-Debug-c7531b6a3bf211980844.json",
+					"name" : "appswipe_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appswipe_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appswipe_tooling-Debug-d01197c687122d0d9085.json",
+					"name" : "appswipe_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-swipe-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/swipe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

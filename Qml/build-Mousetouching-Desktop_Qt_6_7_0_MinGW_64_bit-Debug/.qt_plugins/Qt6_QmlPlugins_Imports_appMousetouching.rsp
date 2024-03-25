@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/Mousetouching
+-cmake-output
+-output-file
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-Mousetouching-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMousetouching.cmake
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-Mousetouching-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Mousetouching
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-Mousetouching-Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-Mousetouching-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_Mousetouching.qrc
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-Mousetouching-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appMousetouching_raw_qml_0.qrc

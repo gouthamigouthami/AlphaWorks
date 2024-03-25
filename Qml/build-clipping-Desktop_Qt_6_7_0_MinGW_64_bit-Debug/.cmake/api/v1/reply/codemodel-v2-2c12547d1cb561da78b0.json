@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2b228d8cb9d35ca1ce06.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "clipping",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-52a55f5372106aca05e1.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2302784cf0b866a3758d.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-6d15f9cbe835bb149623.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-f693619f85949171f594.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping-Debug-d0ed558380e187dc4433.json",
+					"name" : "appclipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_autogen-Debug-df712ac9d39cc30a56d0.json",
+					"name" : "appclipping_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_autogen_timestamp_deps-Debug-4521c0e9a633fe1fbd6e.json",
+					"name" : "appclipping_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_qmlimportscan-Debug-f733dbe32cfcb5b048e4.json",
+					"name" : "appclipping_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_qmllint-Debug-59bfa25c9710221e989b.json",
+					"name" : "appclipping_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_qmllint_json-Debug-c4fda80a48f9ab62daf2.json",
+					"name" : "appclipping_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_qmllint_module-Debug-dbea80ff96db9222f240.json",
+					"name" : "appclipping_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_qmltyperegistration-Debug-0cd2ae639d54959343c2.json",
+					"name" : "appclipping_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appclipping_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appclipping_tooling-Debug-4be38d269ccd1c304c19.json",
+					"name" : "appclipping_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-clipping-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/clipping"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4c685bf0ccf82b0c7db8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "listview_Animation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-2892086fbb0f745bd656.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ae0e83164fc592002c5b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-04d3f330cf8648130e7c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-036650e7ad9d174c5cd1.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation-Debug-ad1b77b8527851f69382.json",
+					"name" : "applistview_Animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_autogen-Debug-ed8b6afb842a43a9ecb5.json",
+					"name" : "applistview_Animation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_autogen_timestamp_deps-Debug-b45e80c5f401d56f3e41.json",
+					"name" : "applistview_Animation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_qmlimportscan-Debug-b06ad37a060f393a0310.json",
+					"name" : "applistview_Animation_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_qmllint-Debug-7b2c8b1a733608ad22dd.json",
+					"name" : "applistview_Animation_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_qmllint_json-Debug-50ecae77005890c01c51.json",
+					"name" : "applistview_Animation_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_qmllint_module-Debug-39f49dd6742784f0895d.json",
+					"name" : "applistview_Animation_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_qmltyperegistration-Debug-a7d400d5aad9b5e41360.json",
+					"name" : "applistview_Animation_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_Animation_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_Animation_tooling-Debug-95da59f8772331bc90cb.json",
+					"name" : "applistview_Animation_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_Animation-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/listview_Animation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

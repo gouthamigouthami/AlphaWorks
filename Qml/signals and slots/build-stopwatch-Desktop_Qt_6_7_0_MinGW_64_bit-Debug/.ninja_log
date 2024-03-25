@@ -1,0 +1,9 @@
+# ninja log v5
+3	4436	7321026545998626	stopwatch_autogen/timestamp	276744cd5a3d537b
+3	4436	7321026545998626	stopwatch_autogen/mocs_compilation.cpp	276744cd5a3d537b
+3	4436	7321026545998626	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-stopwatch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/stopwatch_autogen/timestamp	276744cd5a3d537b
+3	4436	7321026545998626	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-stopwatch-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/stopwatch_autogen/mocs_compilation.cpp	276744cd5a3d537b
+4438	7649	7321026582428307	CMakeFiles/stopwatch.dir/main.cpp.obj	c5d5f518302a5af1
+4506	7670	7321026582428307	CMakeFiles/stopwatch.dir/stopwatch_autogen/mocs_compilation.cpp.obj	cf868a5239f7d933
+4582	7672	7321026582428307	CMakeFiles/stopwatch.dir/stopwatch.cpp.obj	442e579bdbc35ac6
+7673	9765	7321026603232508	stopwatch.exe	2ba12fca2fe0e3c6

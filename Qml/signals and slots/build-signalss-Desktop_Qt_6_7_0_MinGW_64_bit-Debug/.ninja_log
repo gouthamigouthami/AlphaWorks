@@ -1,0 +1,23 @@
+# ninja log v5
+3	2829	7320260772012708	signalss_autogen/timestamp	cb50070c1dd426f9
+3	2829	7320260772012708	signalss_autogen/mocs_compilation.cpp	cb50070c1dd426f9
+3	2829	7320260772012708	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-signalss-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/signalss_autogen/timestamp	cb50070c1dd426f9
+3	2829	7320260772012708	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-signalss-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/signalss_autogen/mocs_compilation.cpp	cb50070c1dd426f9
+2830	6606	7320260814359907	CMakeFiles/signalss.dir/signalss_autogen/mocs_compilation.cpp.obj	4cde5a516ad51634
+3000	6799	7320260816288404	CMakeFiles/signalss.dir/widget.cpp.obj	cfd15bde95fb0908
+2905	11722	7320260865542213	CMakeFiles/signalss.dir/main.cpp.obj	4ba454182dc8222d
+11735	12460	7320260872604066	signalss.exe	12571114cb66fd36
+16	1330	7320261231135314	signalss_autogen/timestamp	cb50070c1dd426f9
+16	1330	7320261231135314	signalss_autogen/mocs_compilation.cpp	cb50070c1dd426f9
+16	1330	7320261231135314	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-signalss-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/signalss_autogen/timestamp	cb50070c1dd426f9
+16	1330	7320261231135314	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-signalss-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/signalss_autogen/mocs_compilation.cpp	cb50070c1dd426f9
+1442	5723	7320261275403028	CMakeFiles/signalss.dir/widget.cpp.obj	cfd15bde95fb0908
+1360	12217	7320261340304642	CMakeFiles/signalss.dir/main.cpp.obj	4ba454182dc8222d
+12218	12930	7320261347050901	signalss.exe	12571114cb66fd36
+23	1464	7320274653484182	signalss_autogen/timestamp	cb50070c1dd426f9
+23	1464	7320274653484182	signalss_autogen/mocs_compilation.cpp	cb50070c1dd426f9
+23	1464	7320274653484182	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-signalss-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/signalss_autogen/timestamp	cb50070c1dd426f9
+23	1464	7320274653484182	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-signalss-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/signalss_autogen/mocs_compilation.cpp	cb50070c1dd426f9
+1494	6357	7320274702730254	CMakeFiles/signalss.dir/widget.cpp.obj	cfd15bde95fb0908
+1594	12296	7320274762124374	CMakeFiles/signalss.dir/main.cpp.obj	4ba454182dc8222d
+12296	13035	7320274769049266	signalss.exe	12571114cb66fd36

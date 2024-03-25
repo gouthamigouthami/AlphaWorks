@@ -1,0 +1,5 @@
+module listview_marginsapply
+typeinfo applistview_marginsapply.qmltypes
+prefer :/listview_marginsapply/
+Main 1.0 Main.qml
+

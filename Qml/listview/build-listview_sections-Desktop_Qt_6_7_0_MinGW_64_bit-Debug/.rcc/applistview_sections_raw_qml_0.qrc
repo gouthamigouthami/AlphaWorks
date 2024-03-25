@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/listview_sections/">
+    <file alias="Main.qml">C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/listview_sections/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,5 @@
+module Qtitem
+typeinfo appQtitem.qmltypes
+prefer :/Qtitem/
+Main 1.0 Main.qml
+

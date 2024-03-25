@@ -1,0 +1,16 @@
+#ifndef WINDOW_H
+#define WINDOW_H
+
+#include <QObject>
+
+
+class Window : public QObject
+{
+    Q_OBJECT
+public:
+    explicit Window(QObject *parent = nullptr);
+
+signals:
+};
+
+#endif // WINDOW_H

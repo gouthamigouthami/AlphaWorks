@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-979784c9be5e06700496.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpptoqml",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e88bca0c0fdc669ff009.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8fec5c8e433911446729.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-ef7c9023e17d96fdb36b.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-50b1d7082eb93facc4c9.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml-Debug-cbdcbd9740576f3a5073.json",
+					"name" : "appcpptoqml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_autogen-Debug-bdbb239712e5d70c395a.json",
+					"name" : "appcpptoqml_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_autogen_timestamp_deps-Debug-79de8c58753fe350f68a.json",
+					"name" : "appcpptoqml_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_qmlimportscan-Debug-0f62d6b386c743fe6dd7.json",
+					"name" : "appcpptoqml_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_qmllint-Debug-8edd4993bb75359ee01d.json",
+					"name" : "appcpptoqml_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_qmllint_json-Debug-c8d45cbaaf5b995d5bd3.json",
+					"name" : "appcpptoqml_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_qmllint_module-Debug-52a5f915169316b8cb10.json",
+					"name" : "appcpptoqml_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_qmltyperegistration-Debug-069eaeec04eec59da7f6.json",
+					"name" : "appcpptoqml_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcpptoqml_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcpptoqml_tooling-Debug-1347af80d03cf42efa94.json",
+					"name" : "appcpptoqml_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-cpptoqml-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/cpptoqml"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

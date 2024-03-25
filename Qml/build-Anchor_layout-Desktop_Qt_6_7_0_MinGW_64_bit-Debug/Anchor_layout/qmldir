@@ -1,0 +1,5 @@
+module Anchor_layout
+typeinfo appAnchor_layout.qmltypes
+prefer :/Anchor_layout/
+Main 1.0 Main.qml
+

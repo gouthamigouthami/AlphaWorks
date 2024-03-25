@@ -1,0 +1,5 @@
+module Qtquicklayout1
+typeinfo appQtquicklayout1.qmltypes
+prefer :/Qtquicklayout1/
+Main 1.0 Main.qml
+

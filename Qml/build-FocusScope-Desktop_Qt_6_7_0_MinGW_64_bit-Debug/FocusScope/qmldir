@@ -1,0 +1,6 @@
+module FocusScope
+typeinfo appFocusScope.qmltypes
+prefer :/FocusScope/
+Main 1.0 Main.qml
+InputField 1.0 InputField.qml
+

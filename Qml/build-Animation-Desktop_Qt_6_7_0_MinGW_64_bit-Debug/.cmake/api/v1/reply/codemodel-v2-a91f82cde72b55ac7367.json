@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dd01fff37ea7d7f4b843.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Animation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-000529b4516f5ed76e2d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-94c75325b31241eb0535.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-00c0ef6772598326d2e1.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-13e9674105a813829db4.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation-Debug-56a183ffa03207086152.json",
+					"name" : "appAnimation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_autogen-Debug-bc616e5ae70f3f9151a7.json",
+					"name" : "appAnimation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_autogen_timestamp_deps-Debug-a44ca914418543b72c22.json",
+					"name" : "appAnimation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_qmlimportscan-Debug-61c68d3dd1e3e3c27aee.json",
+					"name" : "appAnimation_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_qmllint-Debug-e9af09de40aeacbd13c7.json",
+					"name" : "appAnimation_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_qmllint_json-Debug-f28986f6faedede206a6.json",
+					"name" : "appAnimation_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_qmllint_module-Debug-8e64586fb4a5e4fabad7.json",
+					"name" : "appAnimation_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_qmltyperegistration-Debug-30a66f99cd8e1ae71c8e.json",
+					"name" : "appAnimation_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnimation_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnimation_tooling-Debug-dbd5e4602a9082a3af1e.json",
+					"name" : "appAnimation_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-Animation-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/Animation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

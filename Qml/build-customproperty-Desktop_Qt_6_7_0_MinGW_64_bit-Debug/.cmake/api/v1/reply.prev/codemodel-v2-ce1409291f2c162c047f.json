@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-174154e28435818e588b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "customproperty",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-2e9959d07063358dfd3d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6dc0f4c987671e8bf565.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-29129ada349efa02f521.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c025abac6ed94961bbd3.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty-Debug-527594cc8a8aec90b5e5.json",
+					"name" : "appcustomproperty",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_autogen-Debug-f98fcf8951d399d551bf.json",
+					"name" : "appcustomproperty_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_autogen_timestamp_deps-Debug-06c77c8c3010b705ccfe.json",
+					"name" : "appcustomproperty_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_qmlimportscan-Debug-9d240b86dbe76f48f200.json",
+					"name" : "appcustomproperty_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_qmllint-Debug-0739e53a59d71905574c.json",
+					"name" : "appcustomproperty_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_qmllint_json-Debug-5cd0d4e6291d1adf6063.json",
+					"name" : "appcustomproperty_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_qmllint_module-Debug-a1d803978c09711d591c.json",
+					"name" : "appcustomproperty_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_qmltyperegistration-Debug-782a3da80c816d077a59.json",
+					"name" : "appcustomproperty_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcustomproperty_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcustomproperty_tooling-Debug-f5cc26e46a4a1f00b470.json",
+					"name" : "appcustomproperty_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-customproperty-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/customproperty"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

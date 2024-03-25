@@ -1,0 +1,6 @@
+module customproperty
+typeinfo appcustomproperty.qmltypes
+prefer :/customproperty/
+Main 1.0 Main.qml
+LineEdit 1.0 LineEdit.qml
+

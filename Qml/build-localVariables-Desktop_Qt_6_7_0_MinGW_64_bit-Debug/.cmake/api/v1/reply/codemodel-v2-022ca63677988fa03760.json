@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b970ac22aab274fc6cba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "localVariables",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-daf641521f0e8d3bc154.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b9b4f2c70f4897ad8058.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c6c1d2b852951107343e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c431893592857ab8ba64.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables-Debug-9c72bcc9cb6da8c45731.json",
+					"name" : "applocalVariables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_autogen-Debug-0dcc0598f54763457875.json",
+					"name" : "applocalVariables_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_autogen_timestamp_deps-Debug-9c1be47f907c0320f46e.json",
+					"name" : "applocalVariables_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_qmlimportscan-Debug-6acddf64caaea2295322.json",
+					"name" : "applocalVariables_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_qmllint-Debug-5bcac127b70db5a515fb.json",
+					"name" : "applocalVariables_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_qmllint_json-Debug-7bf7c317ab377afb90fe.json",
+					"name" : "applocalVariables_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_qmllint_module-Debug-82a88dc7ebd209e63d79.json",
+					"name" : "applocalVariables_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_qmltyperegistration-Debug-70b42963bc0c0d82d904.json",
+					"name" : "applocalVariables_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applocalVariables_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applocalVariables_tooling-Debug-64f5cef26a9e6092a760.json",
+					"name" : "applocalVariables_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-localVariables-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/localVariables"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

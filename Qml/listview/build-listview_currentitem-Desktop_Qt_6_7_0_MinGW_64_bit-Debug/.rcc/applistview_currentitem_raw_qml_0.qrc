@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/listview_currentitem/">
+    <file alias="Main.qml">C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/listview_currentitem/Main.qml</file>
+  </qresource>
+</RCC>
+

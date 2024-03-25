@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/clipping
+-cmake-output
+-output-file
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-clipping-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appclipping.cmake
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-clipping-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/clipping
+-importPath
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-clipping-Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-clipping-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_clipping.qrc
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/build-clipping-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appclipping_raw_qml_0.qrc

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f7c0e5bf187e40df4e3c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "listview_highrangestrict",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-92bdc5a38e7bfd66f570.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-160cd7e2d265b8a31bdc.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-646e8fd9f05491e0afbc.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-e10f4896fa2507eaf7dd.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict-Debug-033716599685d8325267.json",
+					"name" : "applistview_highrangestrict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_autogen-Debug-e1df24bef8e872e62af6.json",
+					"name" : "applistview_highrangestrict_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_autogen_timestamp_deps-Debug-1b30a40a25a5c8ea4152.json",
+					"name" : "applistview_highrangestrict_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_qmlimportscan-Debug-e99070ab00726de43bbc.json",
+					"name" : "applistview_highrangestrict_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_qmllint-Debug-83afdb1471f659afa896.json",
+					"name" : "applistview_highrangestrict_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_qmllint_json-Debug-b3c67127ceea70625888.json",
+					"name" : "applistview_highrangestrict_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_qmllint_module-Debug-7982e4e0a1784c140500.json",
+					"name" : "applistview_highrangestrict_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_qmltyperegistration-Debug-06ba50ca9426a8683506.json",
+					"name" : "applistview_highrangestrict_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applistview_highrangestrict_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applistview_highrangestrict_tooling-Debug-f37301ac44e86e6c6641.json",
+					"name" : "applistview_highrangestrict_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/build-listview_highrangestrict-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/listview/listview_highrangestrict"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

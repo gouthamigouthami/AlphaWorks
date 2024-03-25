@@ -1,0 +1,9 @@
+# ninja log v5
+3	2768	7320990252126291	lamda_expre_signal_slot_autogen/timestamp	5a74b47d63c4d3d6
+3	2768	7320990252126291	lamda_expre_signal_slot_autogen/mocs_compilation.cpp	5a74b47d63c4d3d6
+3	2768	7320990252126291	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-lamda_expre_signal_slot-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/lamda_expre_signal_slot_autogen/timestamp	5a74b47d63c4d3d6
+3	2768	7320990252126291	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qml/signals and slots/build-lamda_expre_signal_slot-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/lamda_expre_signal_slot_autogen/mocs_compilation.cpp	5a74b47d63c4d3d6
+2771	6656	7320990295825853	CMakeFiles/lamda_expre_signal_slot.dir/lamda_expre_signal_slot_autogen/mocs_compilation.cpp.obj	cc2d25e24b90c54
+2954	6841	7320990297701426	CMakeFiles/lamda_expre_signal_slot.dir/widget.cpp.obj	10f974a4ab025561
+2860	12680	7320990356082964	CMakeFiles/lamda_expre_signal_slot.dir/main.cpp.obj	58cd5b877be17b6d
+12693	13426	7320990363128662	lamda_expre_signal_slot.exe	7fe4972ff3d1abaf
